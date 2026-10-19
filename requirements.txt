@@ -1,9 +1,11 @@
+
+streamlit
 numpy
 pandas
 matplotlib
 seaborn
+scipy==1.15.3
 scikit-learn==1.7.1
-streamlit>=1.35.0
-flask
 xgboost
+flask
 
